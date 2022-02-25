@@ -1,0 +1,3 @@
+[submodule "PCB/Library/kicad6-libraries"]
+	path = PCB/Library/kicad6-libraries
+	url = https://gitlab.com/r4space/kicad6-libraries.git
