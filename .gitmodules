@@ -1,0 +1,3 @@
+[submodule "PCB/Library"]
+	path = PCB/Library
+	url = https://github.com/JNSRYA006/KiCad6-Libraries.git
