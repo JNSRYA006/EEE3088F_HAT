@@ -19,6 +19,11 @@
   )
 
 
+  (text "UVLO - LM1117-3.3\nBattery Charger - TP4056\nInput Voltage Polarity Protection - Diode w/ Voltage Divider (to set ref. voltage) after USB, before Charging IC\nBattery Polarity Protection - FET after Battery in Parallel\nRegulation - What do we need to regulate? Input charging voltage? Or Output (3.3V)? Or both?"
+    (at 116.84 110.49 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 60b868e3-a9f8-4d20-ae5a-40ca53af4adb)
+  )
   (text "Ask Tutor about battery protection ICs I've found" (at 125.73 97.79 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 6167ac01-a97a-4a6f-b811-bc0a02b4630c)
