@@ -4,14 +4,33 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Power Module for STMDiscovery HAT")
+    (date "2022-03-02")
+    (rev "v0.0")
+    (company "UCT")
+    (comment 1 "Ryan Jones")
+    (comment 2 "Group 7")
+    (comment 3 "@Checked By: ")
+    (comment 4 "@Authors: Ryan Jones, Alex Cargill & Devlin Trafford")
+  )
+
   (lib_symbols
   )
 
 
+  (text "Ask Tutor about battery protection ICs I've found" (at 125.73 97.79 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 6167ac01-a97a-4a6f-b811-bc0a02b4630c)
+  )
   (text "Battery, Protection, Reverse Protection, UVLO, Regulation"
     (at 121.92 89.535 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid ad4d3bd1-7295-4eea-a5c5-a926366f2281)
+  )
+  (text "Need to still get 18650 holder footprint" (at 128.27 93.98 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid f5825cc6-95a9-4e27-8336-4f8229fc1924)
   )
 
   (sheet_instances

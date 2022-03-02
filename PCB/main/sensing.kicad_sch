@@ -4,6 +4,15 @@
 
   (paper "A4")
 
+  (title_block
+    (date "2022-03-02")
+    (rev "v0.0")
+    (company "UCT")
+    (comment 2 "Group 7")
+    (comment 3 "@Checked By: ")
+    (comment 4 "@Authors: Ryan Jones, Alex Cargill & Devlin Trafford")
+  )
+
   (lib_symbols
   )
 

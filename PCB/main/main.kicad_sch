@@ -5,12 +5,13 @@
   (paper "A4")
 
   (title_block
-    (title "EEE3088F Template")
-    (date "2022-02-21")
-    (rev "V0.0")
-    (company "University of Cape Town")
+    (title "EEE3088F Discovery HAT Project")
+    (date "2022-03-02")
+    (rev "v0.0")
+    (company "UCT")
+    (comment 2 "Group 7")
     (comment 3 "@Checked By: ")
-    (comment 4 "@Authors: Justin Pead")
+    (comment 4 "@Authors: Ryan Jones, Alex Cargill & Devlin Trafford")
   )
 
   (lib_symbols
@@ -1910,8 +1911,8 @@
     (path "/" (page "1"))
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa" (page "2"))
     (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9" (page "3"))
-    (path "/6faa355f-9d08-4dfa-b3e6-58b461b2063e" (page "5"))
     (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3" (page "5"))
+    (path "/6faa355f-9d08-4dfa-b3e6-58b461b2063e" (page "5"))
   )
 
   (symbol_instances
