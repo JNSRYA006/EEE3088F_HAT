@@ -27,9 +27,3 @@ Item;Qty;Reference(s);Value;LibPart;Footprint;Datasheet;Alt_LCSC;Arrow Part Numb
 26;1;U2;LT1492;Amplifier_Operational:LT1492;;https://www.analog.com/media/en/technical-documentation/data-sheets/14923f.pdf;;;;;;;;;;;; $0,2405 
 ;;;;;;;;;;;;;;;;;; $9,2867 
 Total Price;;; $9,2867 ;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;
-"Source:,""C:\Users\ryanj\OneDrive - University of Cape Town\Third Year\First Semester\EEE3088F\HAT\EEE3088F_HAT\PCB\main\main.kicad_sch""";;;;;;;;;;;;;;;;;;
-"Date:,""2022/03/04 14:29:17""";;;;;;;;;;;;;;;;;;
-"Tool:,""Eeschema (6.0.2)""";;;;;;;;;;;;;;;;;;
-"Generator:,""C:\Program Files\KiCad\6.0\bin\scripting\plugins/bom_csv_grouped_by_value.py""";;;;;;;;;;;;;;;;;;
-"Component Count:,""44""";;;;;;;;;;;;;;;;;;
