@@ -3539,7 +3539,7 @@
   (symbol (lib_id "Device:R_Small_US") (at 229.87 130.81 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 48708fe5-09bf-4857-88a3-ebcb57d69573)
-    (property "Reference" "1k?" (id 0) (at 231.14 128.27 90)
+    (property "Reference" "1k1" (id 0) (at 231.14 128.27 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "R" (id 1) (at 229.87 133.35 90)

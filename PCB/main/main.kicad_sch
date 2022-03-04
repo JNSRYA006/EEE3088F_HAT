@@ -2053,7 +2053,7 @@
       (reference "#PWR038") (unit 1) (value "GND") (footprint "")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/48708fe5-09bf-4857-88a3-ebcb57d69573"
-      (reference "1k?") (unit 1) (value "R") (footprint "")
+      (reference "1k1") (unit 1) (value "R") (footprint "")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/dbbb7866-a04c-4eb2-9f9d-9dfcd04cd85c"
       (reference "BT1") (unit 1) (value "18650 Battery") (footprint "")
