@@ -1,0 +1,37 @@
+"Source:,""C:\Users\ryanj\OneDrive - University of Cape Town\Third Year\First Semester\EEE3088F\HAT\EEE3088F_HAT\PCB\main\main.kicad_sch""";;;;;;;;;;;;;;;;;;
+"Date:,""2022/03/04 14:29:17""";;;;;;;;;;;;;;;;;;
+"Tool:,""Eeschema (6.0.2)""";;;;;;;;;;;;;;;;;;
+"Generator:,""C:\Program Files\KiCad\6.0\bin\scripting\plugins/bom_csv_grouped_by_value.py""";;;;;;;;;;;;;;;;;;
+"Component Count:,""44""";;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+Collated Components:;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+Item;Qty;Reference(s);Value;LibPart;Footprint;Datasheet;Alt_LCSC;Arrow Part Number;Arrow Price/Stock;Description;Height;LCSC;Manufacturer_Name;Manufacturer_Part_Number;Mouser Part Number;Mouser Price/Stock;Populate;Price
+1;1;BT1;18650 Battery;Device:Battery_Cell;;~;;;;;;;;;;;DNP; $-   
+2;2;C1, C2;10uF;Device:C_Small;;~;;;;;;;;;;;; $0,2292 
+3;1;C3;C_Small;Device:C_Small;;~;;;;;;;;;;;; $0,1146 
+4;1;D1;Green LED;Device:LED;;~;;;;;;;;;;;; $0,0314 
+5;1;D2;Red LED;Device:LED;;~;;;;;;;;;;;; $0,0088 
+6;2;D3, D5;D_Zener;Device:D_Zener;;~;;;;;;;;;;;; $0,0386 
+7;1;D4;White LED;Device:LED;;~;;;;;;;;;;;; $0,0147 
+8;1;IC1;TP4056-42-ESOP8;TP4056:TP4056-42-ESOP8;SOIC127P600X175-9N;https://datasheet.lcsc.com/szlcsc/1906261508_Nanjing-Extension-Microelectronics-TP4056-42-ESOP8_C16581.pdf;;;;PMIC - Battery Management ESOP-8 RoHS;1.75;;Nanjing Extension Microelectronics;TP4056-42-ESOP8;;;; $0,2523 
+9;1;IC2;AMS1117-3.3;AMS1117-3.3V:AMS1117-3.3;SOT229P700X180-4N;https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-28/DSA-550594.pdf;;;;Descriptions of ams AMS1117-3.3 provided by its distributors.;1.8;;Advanced;AMS1117-3.3;;;; $0,1795 
+10;1;IC3;74HC04D,653;74HC04D-653:74HC04D,653;SOIC127P600X175-14N;https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf;;74HC04D,653;https://www.arrow.com/en/products/74hc04d653/nexperia?region=nac;74HC(T)04 - Hex inverter@en-us;1.75;;Nexperia;74HC04D,653;771-74HC04D-T;https://www.mouser.co.uk/ProductDetail/Nexperia/74HC04D653?qs=P62ublwmbi%252BLi7Vd8cc7xw%3D%3D;; $0,2479 
+11;2;J1, J4;Conn_01x33_Female;Connector:Conn_01x33_Female;Connector_PinHeader_2.54mm:PinHeader_1x33_P2.54mm_Vertical;~;;;;;;;;;;;DNP; $-   
+12;2;J2, J3;Conn_01x33_Female;Connector:Conn_01x33_Female;Connector_PinSocket_2.54mm:PinSocket_1x33_P2.54mm_Vertical;~;C12345 (example);;;;;C1234 (example);;;;;DNP; $-   
+13;1;J5;MICROXNJ;MICROXNJ:MICROXNJ;MICROXNJ;https://datasheet.lcsc.com/szlcsc/1912111437_SHOU-HAN-MicroXNJ_C404969.pdf;;;;MICRO-USB-SMD_MICROXNJ;2.425;;Shou Han;MICROXNJ;;;; $3,0480 
+14;2;M1, M2;MPMOS;pspice:MPMOS;;~;;;;;;;;;;;; $0,4076 
+15;2;M3, M4;MNMOS;pspice:MNMOS;;~;;;;;;;;;;;; $0,4076 
+16;1;Q1;Q_PNP_BCE;Device:Q_PNP_BCE;;~;;;;;;;;;;;; $0,0905 
+17;1;Q2;Q_PMOS_GDS;Device:Q_PMOS_GDS;;~;;;;;;;;;;;; $0,2038 
+18;1;Q3;Q_PMOS_DGS;Device:Q_PMOS_DGS;;~;;;;;;;;;;;; $0,2038 
+19;1;Q4;2N3904;Transistor_BJT:2N3904;Package_TO_SOT_THT:TO-92_Inline;https://www.onsemi.com/pub/Collateral/2N3903-D.PDF;;;;;;;;;;;; $3,0158 
+20;1;Q5;Q_NMOS_DSG;Device:Q_NMOS_DSG;;~;;;;;;;;;;;; $0,2038 
+21;1;R1;0.4Ω;Device:R_Small_US;;~;;;;;;;;;;;; $0,0013 
+22;6;R2, R6, R7, R8, R9, R12;10kΩ;Device:R_Small_US;;~;;;;;;;;;;;; $0,0072 
+23;8;R3, R4, R10, R11, R13, R14, R15, R16;1kΩ;Device:R_Small_US;;~;;;;;;;;;;;; $0,1920 
+24;1;R5;R;Device:R_Small_US;;~;;;;;;;;;;;; $0,0012 
+25;1;U1;LM393;Comparator:LM393;;http://www.ti.com/lit/ds/symlink/lm393.pdf;;;;;;;;;;;; $0,1466 
+26;1;U2;LT1492;Amplifier_Operational:LT1492;;https://www.analog.com/media/en/technical-documentation/data-sheets/14923f.pdf;;;;;;;;;;;; $0,2405 
+;;;;;;;;;;;;;;;;;; $9,2867 
+Total Price;;; $9,2867 ;;;;;;;;;;;;;;;
