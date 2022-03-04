@@ -1,4 +1,4 @@
-Item;Qty;Reference(s);Value;LibPart;Footprint;Datasheet;Alt_LCSC;Arrow Part Number;Arrow Price/Stock;Description;Height;LCSC;Manufacturer_Name;Manufacturer_Part_Number;Mouser Part Number;Mouser Price/Stock;Populate;Price
+﻿Item;Qty;Reference(s);Value;LibPart;Footprint;Datasheet;Alt_LCSC;Arrow Part Number;Arrow Price/Stock;Description;Height;LCSC;Manufacturer_Name;Manufacturer_Part_Number;Mouser Part Number;Mouser Price/Stock;Populate;Price
 1;1;BT1;18650 Battery;Device:Battery_Cell;;~;;;;;;;;;;;DNP; $-   
 2;2;C1, C2;10uF;Device:C_Small;;~;;;;;;;;;;;; $0,2292 
 3;1;C3;C_Small;Device:C_Small;;~;;;;;;;;;;;; $0,1146 
@@ -19,9 +19,9 @@ Item;Qty;Reference(s);Value;LibPart;Footprint;Datasheet;Alt_LCSC;Arrow Part Numb
 18;1;Q3;Q_PMOS_DGS;Device:Q_PMOS_DGS;;~;;;;;;;;;;;; $0,2038 
 19;1;Q4;2N3904;Transistor_BJT:2N3904;Package_TO_SOT_THT:TO-92_Inline;https://www.onsemi.com/pub/Collateral/2N3903-D.PDF;;;;;;;;;;;; $3,0158 
 20;1;Q5;Q_NMOS_DSG;Device:Q_NMOS_DSG;;~;;;;;;;;;;;; $0,2038 
-21;1;R1;0.4Ω;Device:R_Small_US;;~;;;;;;;;;;;; $0,0013 
-22;6;R2, R6, R7, R8, R9, R12;10kΩ;Device:R_Small_US;;~;;;;;;;;;;;; $0,0072 
-23;8;R3, R4, R10, R11, R13, R14, R15, R16;1kΩ;Device:R_Small_US;;~;;;;;;;;;;;; $0,1920 
+21;1;R1;0.4Î©;Device:R_Small_US;;~;;;;;;;;;;;; $0,0013 
+22;6;R2, R6, R7, R8, R9, R12;10kÎ©;Device:R_Small_US;;~;;;;;;;;;;;; $0,0072 
+23;8;R3, R4, R10, R11, R13, R14, R15, R16;1kÎ©;Device:R_Small_US;;~;;;;;;;;;;;; $0,1920 
 24;1;R5;R;Device:R_Small_US;;~;;;;;;;;;;;; $0,0012 
 25;1;U1;LM393;Comparator:LM393;;http://www.ti.com/lit/ds/symlink/lm393.pdf;;;;;;;;;;;; $0,1466 
 26;1;U2;LT1492;Amplifier_Operational:LT1492;;https://www.analog.com/media/en/technical-documentation/data-sheets/14923f.pdf;;;;;;;;;;;; $0,2405 
