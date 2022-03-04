@@ -1,0 +1,8 @@
+Collated Components:;;;;;;;
+Item;Qty;Reference(s);Value;LibPart;Footprint;Datasheet;Price
+1;1;C;10uF;Device:C_Small;;~; $0,3029 
+2;1;R;10K;Device:R_Small_US;;~; $0,1403 
+3;1;R;10K;Device:R;;~; $0,1403 
+4;1;U3;DS18B20Z;Sensor_Temperature:DS18B20Z;Package_SO:SOIC-8_3.9x4.9mm_P1.27mm;http://datasheets.maximintegrated.com/en/ds/DS18B20.pdf; $1,1052 
+5;1;U4;ALS-PDIC15-21B/TR8;Sensor_Proximity:TSSP58038SS1XB;OptoDevice:Vishay_MINICAST-3Pin;http://www.vishay.com/docs/82740/tssp58038ss1xb.pdf; $0,4279 
+Total Price; $2,1166 ;;;;;;
