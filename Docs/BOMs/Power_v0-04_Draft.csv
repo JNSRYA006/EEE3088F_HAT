@@ -1,6 +1,6 @@
 ﻿Item;Quantity;Reference;Value;LibPart;Footprint;Datasheet;Alt_LCSC;Description;Height;LCSC;Manufacturer_Name;Manufacturer_Part_Number;Populate;Price
 1;1;BT1;18650 Battery;Device:Battery_Cell;;~;;;;;;;DNP; $-   
-2;2;C1, C2;10uF;Device:C_Small;;~;;;;;;;; $0,2292 
+2;2;C1 C2;10uF;Device:C_Small;;~;;;;;;;; $0,2292 
 3;1;C3;C_Small;Device:C_Small;;~;;;;;;;; $0,1146 
 4;1;D1;Green LED;Device:LED;;~;;;;;;;; $0,0314 
 5;1;D2;Red LED;Device:LED;;~;;;;;;;; $0,0088 
