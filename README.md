@@ -17,8 +17,8 @@ The HAT will be used as a water sensing module for agricultural purposes. It wil
 ### Each sub-folder contains different aspects relating to different parts of the project
 * PCB: The KiCAD Project, Schematics & Layout and Project Libraries
 * Firmware: Any software developed for the hardware or instructions on where to find relevant sofware in cases where it makes more sense to have this in its own dedicated repo make this a git submodule
-* Docs: Project documentation and component datasheets
-* Production: The gerber files, BOM, Budget, or anything required by the fabrication houses
+* Docs: Project documentation, Draft documents and component datasheets
+* Production: The final gerber files, BOM, Budget, or anything required by the fabrication houses
 * Simulation: Any simulation files (SPICE) or design stage generated results (matlab or excel) 
 * CAD: Any 3D models or mechanical designs for enclosures or support
 
