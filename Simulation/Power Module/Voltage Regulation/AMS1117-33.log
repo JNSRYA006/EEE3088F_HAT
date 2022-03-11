@@ -1,0 +1,21 @@
+Circuit: * C:\Users\ryanj\OneDrive - University of Cape Town\Third Year\First Semester\EEE3088F\HAT\EEE3088F_HAT\Simulation\Power Module\Voltage Regulation\AMS1117-33.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Tue Mar 08 17:15:20 2022
+Total elapsed time: 0.203 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 567
+traniter = 558
+tranpoints = 280
+accept = 280
+rejected = 0
+matrix size = 4
+fillins = 0
+solver = Normal
+Matrix Compiler1: 136 bytes object code size  0.1/0.1/[0.1]
+Matrix Compiler2: off  [0.1]/0.1/0.1
+
