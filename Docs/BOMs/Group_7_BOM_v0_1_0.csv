@@ -1,0 +1,32 @@
+Item;Qty;Reference(s);Value;Datasheet;JLC Part Number;Alt JLC Part Number;Populate;Price/Item;Total Price
+1;1;BT1;18650 Battery;~;;N/A;DNP;;
+2;4;C1, C4, C5, C6;1uF;https://datasheet.lcsc.com/lcsc/1811071223_AVX-TAJA106K016RNJ_C7171.pdf;C52923;Multiple;; $0,0037 ; $0,0148 
+3;3;C2, C3, C7;10uF;https://datasheet.lcsc.com/lcsc/1811071223_AVX-TAJA106K016RNJ_C7171.pdf;C19702;Multiple;; $0,0680 ; $0,2040 
+4;1;C8;47nF;https://datasheet.lcsc.com/lcsc/1810261614_Samsung-Electro-Mechanics-CL10B473KB8NNNC_C1622.pdf;C1622;Multiple;; $0,0039 ; $0,0039 
+6;2;C10, C11;22pF;https://datasheet.lcsc.com/lcsc/1810261614_Samsung-Electro-Mechanics-CL10B473KB8NNNC_C1804.pdf;C1804;Multiple;; $0,0123 ; $0,0246 
+7;5;D1, D2, D3, D6, D7;1N5819WS;https://datasheet.lcsc.com/lcsc/1810202112_Guangdong-Hottech-1N5819WS_C191023.pdf;C191023;C1884550;; $0,0103 ; $0,0515 
+8;1;D4;Green LED;~;C72043;Multiple;; $0,0312 ; $0,0312 
+9;1;D5;Red LED;~;C84256;Multiple;; $0,0139 ; $0,0139 
+10;1;IC1;TP4056-42-ESOP8;https://datasheet.lcsc.com/szlcsc/1906261508_Nanjing-Extension-Microelectronics-TP4056-42-ESOP8_C16581.pdf;C16581;C2763448;; $0,2578 ; $0,2578 
+11;1;IC2;AMS1117-3.3;https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-28/DSA-550594.pdf;C6186;C173386;; $0,1855 ; $0,1855 
+12;1;IC3;M24C02-WMN6TP;;C6482;C12620;; $1,5556 ; $1,5556 
+13;4;J1, J2, J3, J4;Conn_01x33_Female;~;;N/A;DNP; $-   ; $-   
+14;1;J5;MICROXNJ;https://datasheet.lcsc.com/szlcsc/1912111437_SHOU-HAN-MicroXNJ_C404969.pdf;C404969;C2682504;; $0,6496 ; $0,6496 
+15;4;J6, J7, J8, J9;Conn_01x02_Male;https://datasheet.lcsc.com/lcsc/1810182031_MOLEX-532610271_C189700.pdf;C189700;;; $0,1352 ; $0,5408 
+17;3;Q1, Q2, Q3;AO3401A;http://www.aosmd.com/pdfs/datasheet/AO3401A.pdf;C15127;Multiple;; $0,1774 ; $0,5322 
+18;3;R1, R2, R3;0R;https://datasheet.lcsc.com/lcsc/2110251730_UNI-ROYAL-Uniroyal-Elec-0402WGF0000TCE_C17168.pdf;C17477;Multiple;; $0,0024 ; $0,0072 
+19;1;R4;100R;~;C17901;Multiple;; $0,0043 ; $0,0043 
+20;3;R5, R6, R11;4.7k;https://datasheet.lcsc.com/lcsc/2110251730_UNI-ROYAL-Uniroyal-Elec-0402WGF0000TCE_C17168.pdf;C17673;Multiple;; $0,0027 ; $0,0081 
+21;3;R7, R8, R13;10k;~;C25905;Multiple;; $0,0007 ; $0,0021 
+22;1;R9;1.2k;~;C22765;Multiple;; $0,0014 ; $0,0014 
+23;1;R10;3.3k;https://datasheet.lcsc.com/lcsc/2110251730_UNI-ROYAL-Uniroyal-Elec-0402WGF0000TCE_C17168.pdf;C22978;Multiple;; $0,0013 ; $0,0013 
+24;1;R12;120k;~;C25750;Multiple;; $0,0007 ; $0,0007 
+26;2;R14, R15;R;~;;Multiple;; $0,0007 ; $0,0014 
+27;2;R16, R17;4.7k;~;C17673;Multiple;; $0,0027 ; $0,0054 
+28;1;U1;LM393;http://www.ti.com/lit/ds/symlink/lm393.pdf;C7955;C67470;; $0,1466 ; $0,1466 
+29;1;U2;DS18B20Z;http://datasheets.maximintegrated.com/en/ds/DS18B20.pdf;C695837;C2837470;; $1,1052 ; $1,1052 
+30;1;U3;ALS-PDIC15-21B/TR8;http://www.vishay.com/docs/82740/tssp58038ss1xb.pdf;C131243;C132180;; $0,4279 ; $0,4279 
+31;1;U4;CH340G;https://cdn.sparkfun.com/datasheets/Dev/Arduino/Other/CH340DS1.PDF;C14267;;; $0,5838 ; $0,5838 
+32;1;Y1;Crystal;https://datasheet.lcsc.com/lcsc/2103291203_Yangxing-Tech-X322512MSB4SI_C9002.pdf;C9002;;; $0,1054 ; $0,1054 
+;;;;;;;;;
+;;;;;;Total Price;;; $6,4662 
