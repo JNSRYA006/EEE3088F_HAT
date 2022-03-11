@@ -1,0 +1,102 @@
+ERC report (2022/03/11 13:38:53, Encoding UTF8)
+
+***** Sheet /
+[label_dangling]: Label not connected to anything
+    ; Severity: error
+    @(53,34 mm, 67,31 mm): Global Label 'VCCBus'
+[label_dangling]: Label not connected to anything
+    ; Severity: error
+    @(53,34 mm, 55,88 mm): Global Label 'USBDETECT'
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; Severity: error
+    @(253,37 mm, 24,13 mm): Symbol #PWR03 [+5V] Pin 1 [+5V, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; Severity: error
+    @(253,37 mm, 34,29 mm): Symbol #PWR09 [VDD] Pin 1 [VDD, Power input, Line]
+[multiple_net_names]: Both POWEROUT and PWR (3.3V) are attached to the same items; POWEROUT will be used in the netlist
+    ; Severity: warning
+    @(53,34 mm, 52,07 mm): Global Label 'POWEROUT'
+    @(114,30 mm, 50,80 mm): Hierarchical Label 'PWR (3.3V)'
+[multiple_net_names]: Both D- and USB (D-) are attached to the same items; D- will be used in the netlist
+    ; Severity: warning
+    @(53,34 mm, 63,50 mm): Global Label 'D-'
+    @(114,30 mm, 55,88 mm): Hierarchical Label 'USB (D-)'
+[multiple_net_names]: Both D+ and USB (D+) are attached to the same items; D+ will be used in the netlist
+    ; Severity: warning
+    @(53,34 mm, 59,69 mm): Global Label 'D+'
+    @(114,30 mm, 60,96 mm): Hierarchical Label 'USB (D+)'
+
+***** Sheet /Power/
+[multiple_net_names]: Both GND and BAT - are attached to the same items; GND will be used in the netlist
+    ; Severity: warning
+    @(90,17 mm, 73,66 mm): Symbol #PWR022 [GND] Pin 1 [GND, Power input, Line]
+    @(21,59 mm, 105,41 mm): Label 'BAT -'
+[lib_symbol_issues]: Symbol 'TP4056-42-ESOP8' has been modified in library 'TP4056'.
+    ; Severity: warning
+    @(210,82 mm, 74,93 mm): Symbol IC1 [TP4056-42-ESOP8]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; Severity: error
+    @(256,54 mm, 125,73 mm): Symbol Q3 [AO3401A] Pin 1 [G, Input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; Severity: error
+    @(234,95 mm, 142,24 mm): Symbol U1A [LM393] Pin 2 [-, Input, Line]
+[multiple_net_names]: Both +3V0 and VRegulated are attached to the same items; +3V0 will be used in the netlist
+    ; Severity: warning
+    @(147,32 mm, 97,79 mm): Symbol #PWR025 [+3V0] Pin 1 [+3V0, Power input, Line]
+    @(149,86 mm, 101,60 mm): Label 'VRegulated'
+[lib_symbol_issues]: Symbol 'AMS1117-3.3' has been modified in library 'AMS1117-3.3V'.
+    ; Severity: warning
+    @(109,22 mm, 99,06 mm): Symbol IC2 [AMS1117-3.3]
+
+***** Sheet /Sensing/
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; Severity: error
+    @(109,22 mm, 43,18 mm): Symbol U3 [TSSP58038SS1XB] Pin 2 [GND, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; Severity: error
+    @(109,22 mm, 33,02 mm): Symbol U3 [TSSP58038SS1XB] Pin 3 [Vs, Power input, Line]
+
+***** Sheet /microcontroller_interfacing/
+[hier_label_mismatch]: Hierarchical label PWR (3.3V) has no matching sheet pin in the parent sheet
+    ; Severity: error
+    @(25,40 mm, 118,11 mm): Hierarchical Label 'PWR (3.3V)'
+[pin_not_connected]: Pin not connected
+    ; Severity: error
+    @(60,96 mm, 139,70 mm): Symbol U4 [CH340G] Pin 15 [R232, Input, Line]
+[hier_label_mismatch]: Hierarchical label USB (D+) has no matching sheet pin in the parent sheet
+    ; Severity: error
+    @(54,61 mm, 114,30 mm): Hierarchical Label 'USB (D+)'
+[hier_label_mismatch]: Hierarchical label USB (D-) has no matching sheet pin in the parent sheet
+    ; Severity: error
+    @(50,80 mm, 114,30 mm): Hierarchical Label 'USB (D-)'
+[multiple_net_names]: Both PA3 and S3 (Analog Sensor) are attached to the same items; PA3 will be used in the netlist
+    ; Severity: warning
+    @(158,75 mm, 149,86 mm): Label 'PA3'
+    @(158,75 mm, 121,92 mm): Hierarchical Label 'S3 (Analog Sensor)'
+[hier_label_mismatch]: Hierarchical label S3 (Analog Sensor) has no matching sheet pin in the parent sheet
+    ; Severity: error
+    @(158,75 mm, 121,92 mm): Hierarchical Label 'S3 (Analog Sensor)'
+[multiple_net_names]: Both PA1 and S1 (Digital Sensor) are attached to the same items; PA1 will be used in the netlist
+    ; Severity: warning
+    @(157,48 mm, 68,58 mm): Label 'PA1'
+    @(157,48 mm, 40,64 mm): Hierarchical Label 'S1 (Digital Sensor)'
+[hier_label_mismatch]: Hierarchical label S1 (Digital Sensor) has no matching sheet pin in the parent sheet
+    ; Severity: error
+    @(157,48 mm, 40,64 mm): Hierarchical Label 'S1 (Digital Sensor)'
+[multiple_net_names]: Both PA2 and S2 (Analog Sensor) are attached to the same items; PA2 will be used in the netlist
+    ; Severity: warning
+    @(157,48 mm, 110,49 mm): Label 'PA2'
+    @(157,48 mm, 82,55 mm): Hierarchical Label 'S2 (Analog Sensor)'
+[hier_label_mismatch]: Hierarchical label S2 (Analog Sensor) has no matching sheet pin in the parent sheet
+    ; Severity: error
+    @(157,48 mm, 82,55 mm): Hierarchical Label 'S2 (Analog Sensor)'
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; Severity: error
+    @(71,12 mm, 132,08 mm): Symbol U4 [CH340G] Pin 16 [VCC, Power input, Line]
+[lib_symbol_issues]: The current configuration does not include the library 'M24C02-WMN6TP'.
+    ; Severity: warning
+    @(48,26 mm, 52,07 mm): Symbol IC3 [M24C02-WMN6TP]
+
+***** Sheet /Outputs/
+
+ ** ERC messages: 27  Errors 16  Warnings 11
