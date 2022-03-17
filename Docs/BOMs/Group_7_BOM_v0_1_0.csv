@@ -1,10 +1,10 @@
 ## Please download for better formatting;;;;;;;;;
 Item;Qty;Reference(s);Value;Datasheet;JLC Part Number;Alt JLC Part Number;Populate;Price/Item;Total Price
 1;1;BT1;18650 Battery;~;;N/A;DNP;;
-2;4;C1, C4, C5, C6;1uF;https://datasheet.lcsc.com/lcsc/1811071223_AVX-TAJA106K016RNJ_C7171.pdf;C52923;Multiple;; $0,0037 ; $0,0148 
+2;4;C1, C4, C5, C6;1uF;https://datasheet.lcsc.com/lcsc/1811071223_AVX-TAJA106K016RNJ_C7171.pdf;C15849;Multiple;; $0,0058; $0,0148 
 3;3;C2, C3, C7;10uF;https://datasheet.lcsc.com/lcsc/1811071223_AVX-TAJA106K016RNJ_C7171.pdf;C19702;Multiple;; $0,0680 ; $0,2040 
-4;1;C8;47nF;https://datasheet.lcsc.com/lcsc/1810261614_Samsung-Electro-Mechanics-CL10B473KB8NNNC_C1622.pdf;C1622;Multiple;; $0,0039 ; $0,0039 
-6;2;C10, C11;22pF;https://datasheet.lcsc.com/lcsc/1810261614_Samsung-Electro-Mechanics-CL10B473KB8NNNC_C1804.pdf;C1804;Multiple;; $0,0123 ; $0,0246 
+4;1;C8;47nF;https://datasheet.lcsc.com/lcsc/1810261614_Samsung-Electro-Mechanics-CL10B473KB8NNNC_C1622.pdf;C1622;Multiple;; $0,004; $0,0039 
+6;2;C10, C11;22pF;https://datasheet.lcsc.com/lcsc/1810261614_Samsung-Electro-Mechanics-CL10B473KB8NNNC_C1804.pdf;C1653;Multiple;; $0,0123 ; $0,0246 
 7;5;D1, D2, D3, D6, D7;1N5819WS;https://datasheet.lcsc.com/lcsc/1810202112_Guangdong-Hottech-1N5819WS_C191023.pdf;C191023;C1884550;; $0,0103 ; $0,0515 
 8;1;D4;Green LED;~;C72043;Multiple;; $0,0312 ; $0,0312 
 9;1;D5;Red LED;~;C84256;Multiple;; $0,0139 ; $0,0139 
