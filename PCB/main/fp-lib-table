@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "3088_uC")(type "KiCad")(uri "C:/Users/ryanj/OneDrive - University of Cape Town/Third Year/First Semester/EEE3088F/HAT/KiCad6-Libraries/footprints/3088_uC.pretty")(options "")(descr ""))
+  (lib (name "conn_Molex_01_02_vert")(type "KiCad")(uri "C:/Users/ryanj/OneDrive - University of Cape Town/Third Year/First Semester/EEE3088F/HAT/KiCad6-Libraries/footprints/conn_Molex_01_02_vert.pretty")(options "")(descr ""))
+)
