@@ -858,7 +858,6 @@
     )
   )
 
-
   (junction (at 44.45 52.07) (diameter 0) (color 0 0 0 0)
     (uuid 3e155d88-b5fd-43b9-93bd-2b73e5b403bd)
   )
@@ -2754,7 +2753,7 @@
       (reference "U2") (unit 1) (value "DS18B20Z") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/cf6c12a4-3d95-473d-bafe-8be3892a84e9/2be39d4a-0288-46fc-88cd-e57defc6f3ed"
-      (reference "U3") (unit 1) (value "ALS-PDIC15-21B/TR8") (footprint "OptoDevice:Vishay_MINICAST-3Pin")
+      (reference "U3") (unit 1) (value "ALS-PDIC15-21B/TR8") (footprint "ALS_Light:LED-SMD_1206-4P-L3.2-W1.5-TR")
     )
     (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3/18e19abe-3ead-4492-9822-8796ccf8cfb9"
       (reference "U4") (unit 1) (value "CH340G") (footprint "3088_uC:SOIC127P600X180-16N")

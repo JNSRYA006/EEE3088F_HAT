@@ -560,7 +560,6 @@
     )
   )
 
-
   (junction (at 245.11 146.05) (diameter 0) (color 0 0 0 0)
     (uuid 1e2633c2-c6e6-4d36-8291-57937a5bd7f4)
   )
@@ -752,7 +751,7 @@
     (uuid 2be39d4a-0288-46fc-88cd-e57defc6f3ed)
     (property "Reference" "U3" (id 0) (at 228.135 121.92 0))
     (property "Value" "ALS-PDIC15-21B/TR8" (id 1) (at 228.135 124.46 0))
-    (property "Footprint" "OptoDevice:Vishay_MINICAST-3Pin" (id 2) (at 228.6 142.875 0)
+    (property "Footprint" "ALS_Light:LED-SMD_1206-4P-L3.2-W1.5-TR" (id 2) (at 228.6 142.875 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.vishay.com/docs/82740/tssp58038ss1xb.pdf" (id 3) (at 246.38 125.73 0)
