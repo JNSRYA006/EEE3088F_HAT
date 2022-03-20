@@ -1,0 +1,10 @@
+** Drc report for D:\UCT2022\EEE3088F\EEE3088F_HAT\PCB\main\main.kicad_pcb **
+** Created on 2022-03-20 20:23:12 **
+
+** Found 0 DRC violations **
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
