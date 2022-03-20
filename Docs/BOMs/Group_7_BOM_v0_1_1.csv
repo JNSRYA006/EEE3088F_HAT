@@ -1,10 +1,9 @@
-##Please Download for better formatting,,,,,,,,,,,,
 Item,Qty,Reference(s),Value,Footprint,Datasheet,JLC Part Number,Alt JLC Part Number,Manufacturer_Name,Manufacturer_Part_Number,Populate,Part Price,Total Price
-1,1,BT1,18650 Battery,bat_holder:KEYSTONE-1042,~,N/A,N/A,,,DNP,0,0.0000
+1,1,BT1,18650 Battery,bat_holder:KEYSTONE-1042,~,N/A,N/A,,,DNP,0,0
 2,5,"C1, C4, C5, C6, C7",1u,1uF_0804:CAPC1608X90N,~,C52923,Multiple,,,,0.0037,0.0185
-3,2,"C2, C3",10uF,10uF_0804:CAPC2012X145N,~,C19702,Multiple,,,,0.068,0.1360
-4,1,C8,10uF,10uF_0804:CAPC2012X145N,~,C19702,Multiple,,,,0.068,0.0680
-5,1,C9,47n,47nF_0804:CAPC1608X90N,https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA10/2408147.pdf,C1622,Multiple,Samsung Electro-Mechanics,CL05B104KO5NNNC,,0.004,0.0040
+3,2,"C2, C3",10uF,10uF_0804:CAPC2012X145N,~,C19702,Multiple,,,,0.068,0.136
+4,1,C8,10uF,10uF_0804:CAPC2012X145N,~,C19702,Multiple,,,,0.068,0.068
+5,1,C9,47n,47nF_0804:CAPC1608X90N,https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA10/2408147.pdf,C1622,Multiple,Samsung Electro-Mechanics,CL05B104KO5NNNC,,0.004,0.004
 6,2,"C10, C11",100n,Capacitor_SMD:C_0402_1005Metric,https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA10/2408147.pdf,C1525,Multiple,Samsung Electro-Mechanics,CL05B104KO5NNNC,,0.0011,0.0022
 7,2,"C12, C13",22p,22pF_0804:CAPC1608X90N,https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA10/2408147.pdf,C1653,Multiple,Samsung Electro-Mechanics,CL05B104KO5NNNC,,0.0123,0.0246
 8,3,"D1, D2, D5",1N5819WS,Diode_SMD:D_SOD-323,https://datasheet.lcsc.com/lcsc/1810202112_Guangdong-Hottech-1N5819WS_C191023.pdf,C191023,C1884550,,,,0.0103,0.0309
@@ -14,9 +13,9 @@ Item,Qty,Reference(s),Value,Footprint,Datasheet,JLC Part Number,Alt JLC Part Num
 12,1,IC1,TP4056-42-ESOP8,TP4506:SOIC127P600X175-9N,https://datasheet.lcsc.com/szlcsc/1906261508_Nanjing-Extension-Microelectronics-TP4056-42-ESOP8_C16581.pdf,C16581,C2763448,Nanjing Extension Microelectronics,TP4056-42-ESOP8,,0.2578,0.2578
 13,1,IC2,AMS1117-3.3,AMS1117-3.3V:SOT229P700X180-4N,https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-28/DSA-550594.pdf,C6186,C173386,Advanced,AMS1117-3.3,,0.1855,0.1855
 14,1,IC3,AT24C256C-SSHL-T,3088_uC:SOIC127P600X175-8N,https://www.mouser.co.za/datasheet/2/268/AT24C256C-I2C-Compatible-Serial-EEPROM-256-Kbit-20-1398091.pdf,C6482,,Microchip Tech,AT24C256C-SSHL-T,,1.5556,1.5556
-15,4,"J1, J2, J3, J4",Conn_01x33_Female,Connector_PinHeader_2.54mm:PinHeader_1x33_P2.54mm_Vertical,~,N/A,N/A,,,DNP,0,0.0000
+15,4,"J1, J2, J3, J4",Conn_01x33_Female,Connector_PinHeader_2.54mm:PinHeader_1x33_P2.54mm_Vertical,~,N/A,N/A,,,DNP,0,0
 16,1,J5,MICROXNJ,MICROXNJ:MICROXNJ,https://datasheet.lcsc.com/szlcsc/1912111437_SHOU-HAN-MicroXNJ_C404969.pdf,C404969,C2682504,Shou Han,MICROXNJ,,0.6496,0.6496
-17,4,"J6, J7, J8, J9",Conn_01x02_Male,conn_Molex_01_02_vert:53398-0271,https://datasheet.lcsc.com/lcsc/1811051320_MOLEX-0533980271_C122410.pdf,C122410,,MOLEX,533980271,,0.7175,2.8700
+17,4,"J6, J7, J8, J9",Conn_01x02_Male,conn_Molex_01_02_vert:53398-0271,https://datasheet.lcsc.com/lcsc/1811051320_MOLEX-0533980271_C122410.pdf,C122410,,MOLEX,533980271,,0.7175,2.87
 18,3,"Q1, Q2, Q3",AO3401A,AO3401A:SOT95P280X125-3N,http://www.aosmd.com/pdfs/datasheet/AO3401A.pdf,C15127,Multiple,,,,0.1774,0.5322
 19,7,"R1, R2, R3, R4, R10, R12, R15",0R,0R:RESC2013X65N,https://datasheet.lcsc.com/lcsc/2110251730_UNI-ROYAL-Uniroyal-Elec-0402WGF0000TCE_C17168.pdf,C17477,Multiple,,,,0.0024,0.0168
 20,1,R5,100R,100_ohm:RESC3116X65N,~,C17901,Multiple,,,,0.0043,0.0043
@@ -27,7 +26,7 @@ Item,Qty,Reference(s),Value,Footprint,Datasheet,JLC Part Number,Alt JLC Part Num
 25,2,"R16, R17",1k,1k:RESC1608X55N,https://datasheet.lcsc.com/lcsc/2110252030_UNI-ROYAL-Uniroyal-Elec-0603WAF1001T5E_C21190.pdf,C21190,Multiple,UNI-ROYAL(Uniroyal Elec),0603WAF1001T5E,,0.0012,0.0024
 26,2,"R18, R19",4.7k,4k7:RESC2013X65N,https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF4701TCE_C25900.pdf,C17673,Multiple,UNI-ROYAL(Uniroyal Elec),0402WGF4701TCE,,0.0027,0.0054
 27,3,"R20, R21, R22",1.5k,4k7:RESC2013X65N,;https://datasheet.lcsc.com/lcsc/2110260030_UNI-ROYAL-Uniroyal-Elec-0402WGF4701TCE_C25867.pdf,C25867,Multiple,UNI-ROYAL(Uniroyal Elec),0402WGF1501TCE,,0.0009,0.0027
-28,13,"TP1, TP2, TP3, TP4, TP5, TP6, TP7, TP8, TP9, TP10, TP11, TP12, TP13",TestPoint,TestPoint:TestPoint_Pad_D2.0mm,~,N/A,N/A,,,,0,0.0000
+28,13,"TP1, TP2, TP3, TP4, TP5, TP6, TP7, TP8, TP9, TP10, TP11, TP12, TP13",TestPoint,TestPoint:TestPoint_Pad_D2.0mm,~,N/A,N/A,,,,0,0
 29,1,U1,LM393,LMS393DRG:SOIC127P600X175-8N,http://www.ti.com/lit/ds/symlink/lm393.pdf,C7955,C67470,,,,0.1466,0.1466
 30,1,U2,DS18B20Z,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,http://datasheets.maximintegrated.com/en/ds/DS18B20.pdf,C695837,C2837470,,,,1.1052,1.1052
 31,1,U3,ALS-PDIC15-21B/TR8,ALS_Light:LED-SMD_1206-4P-L3.2-W1.5-TR,http://www.vishay.com/docs/82740/tssp58038ss1xb.pdf,C131243,C132180,,,,0.4279,0.4279
