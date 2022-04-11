@@ -941,7 +941,6 @@
     )
   )
 
-
   (junction (at 44.45 52.07) (diameter 0) (color 0 0 0 0)
     (uuid 3e155d88-b5fd-43b9-93bd-2b73e5b403bd)
   )
@@ -2891,8 +2890,11 @@
     (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3/f7eccaa0-2282-46c5-9b3f-0cca8520cbb2"
       (reference "R22") (unit 1) (value "1.5k") (footprint "4k7:RESC2013X65N")
     )
-    (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3/d9766170-79cc-4465-99be-8e2606a5c26e"
+    (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3/1b39aee1-14bb-4f57-949c-af5946eea388"
       (reference "R23") (unit 1) (value "1.5k") (footprint "4k7:RESC2013X65N")
+    )
+    (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3/d9766170-79cc-4465-99be-8e2606a5c26e"
+      (reference "R24") (unit 1) (value "1.5k") (footprint "4k7:RESC2013X65N")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/41e1b64d-86dc-4c98-9af0-11ab516f7a2b"
       (reference "TP1") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D2.0mm")
@@ -2921,10 +2923,10 @@
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/e89886d7-8540-4efb-b23d-87284469127f"
       (reference "TP9") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D2.0mm")
     )
-    (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3/b52c1527-55fd-4776-8d3a-ef8716b21422"
+    (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3/0575ff20-08af-48e3-93ee-cd9e38bd8945"
       (reference "TP10") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D2.0mm")
     )
-    (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3/2345ce92-7574-4cc4-87e0-b037c9c81739"
+    (path "/59b42903-2dc7-4011-ab5b-d7b81bd233c3/951df1e7-730c-4296-ab41-7fc27958be15"
       (reference "TP11") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D2.0mm")
     )
     (path "/d15c8919-7ccc-44b2-8fc4-b04c1b47b6fa/272123bd-4950-4a36-b454-6437dde84883"
