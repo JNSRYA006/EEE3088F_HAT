@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "TP4056")(type "Legacy")(uri "C:/Users/ryanj/OneDrive - University of Cape Town/Third Year/First Semester/EEE3088F/HAT/KiCad6-Libraries/symbols/TP4056-42-ESOP8.lib")(options "")(descr ""))
+  (lib (name "LM393DR2G")(type "Legacy")(uri "C:/Users/ryanj/OneDrive - University of Cape Town/Third Year/First Semester/EEE3088F/HAT/KiCad6-Libraries/symbols/LM393DR2G.lib")(options "")(descr ""))
 )

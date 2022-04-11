@@ -5,8 +5,8 @@
   (paper "A4")
 
   (title_block
-    (date "2022-03-17")
-    (rev "v0.1.1")
+    (date "2022-04-08")
+    (rev "v1.0")
     (company "UCT")
     (comment 2 "Group 7")
     (comment 3 "@Checked By: ")

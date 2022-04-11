@@ -3,4 +3,5 @@
   (lib (name "conn_Molex_01_02_vert")(type "KiCad")(uri "C:/Users/ryanj/OneDrive - University of Cape Town/Third Year/First Semester/EEE3088F/HAT/KiCad6-Libraries/footprints/conn_Molex_01_02_vert.pretty")(options "")(descr ""))
   (lib (name "ALS_Light")(type "KiCad")(uri "C:/Users/ryanj/OneDrive - University of Cape Town/Third Year/First Semester/EEE3088F/HAT/KiCad6-Libraries/footprints/ALS_Light.pretty")(options "")(descr ""))
   (lib (name "3088_aux_fps")(type "KiCad")(uri "C:/Users/ryanj/OneDrive - University of Cape Town/Third Year/First Semester/EEE3088F/HAT/KiCad6-Libraries/footprints/3088_aux_fps")(options "")(descr ""))
+  (lib (name "3088_power")(type "KiCad")(uri "C:/Users/ryanj/OneDrive - University of Cape Town/Third Year/First Semester/EEE3088F/HAT/KiCad6-Libraries/footprints/3088_power.pretty")(options "")(descr ""))
 )
