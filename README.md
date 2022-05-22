@@ -7,7 +7,7 @@ This repository will be updated at each stage of the design process, and where n
 * Devlin Trafford (TRFDEV001)
 
 # Project Details
-### This project is part a project for EEE3088F in 2022
+### This project is part of a project for EEE3088F in 2022
 This project will design a HAT *(Hardware Attached on Top)* for a STM Discovery Board which uses the STM32F051x8. The use case for this HAT is for semi-autonomous indoor plant growing. It will have a temperature sensor located as close to the plant as possible as well as a light sensor facing the main direction which the plant receives light from . These sensors will connect to a STM Discovery board, which will act as the brain of the system. This design was created for small scale agricultural setups. Appropriate user stories were applied to develop the Specifications. Given these use cases, the PCB is able to:
 
 * Monitor the **temperature** around a plant
