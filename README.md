@@ -60,9 +60,22 @@ See a 3D render of the PCB from KiCad below,
 
 # How to connect the PCB to the STMDiscovery Board
 
-# How to connect the PCB & STMDiscovery to your computer
+
+
+# How to connect the PCB & STMDiscovery to your computer using UART
+
+- Download and install CH340 drivers
+  - [Download available online](https://learn.sparkfun.com/tutorials/how-to-install-ch340-drivers/all#drivers-if-you-need-them)
+- Plug the device to your computer using a USB port. 
+  - Check that the device is visible under ports in the Device Manager (for *Windows*), 
+    - [Instructions on how to open Device Manager here](https://www.lifewire.com/how-to-open-device-manager-2626075)
+- Create a serial connection with a baud rate of 18400bits/s in PuTTY
 
 # How to send your first data to the board!
+
+- After connecting the board using the above instructions,
+- Type “Hello HAT” into the console and press ENTER.
+- The device will dump all information collected since the last time the device was connected to a USB host device in the terminal window
 
 
 # License
