@@ -43,7 +43,7 @@ See a 3D render of the PCB from KiCad below,
 
 # How to short the UVLO circuit
 
-- On the LHS of the board, remove resistor **R12 & R10** using pliers and twisting and pulling the resistor
+- On the LHS of the board, remove resistor **R12 & R10** using pliers and twisting and pulling the resistors
 
 - Q1 & IC1 (Circled in **Orange**) are the MOSFET & Op-Amp in the UVLO circuit that needs to be removed by soldering one end of a wire to the top pad (Pad 2) of R12 to the top pad (Pad 2) of R10 (Circled in **Green**)
 
