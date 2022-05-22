@@ -15,8 +15,8 @@ This project will design a HAT *(Hardware Attached on Top)* for a STM Discovery 
 
 See a 3D render of the PCB from KiCad below,
 
-| ![PCB 3D Render](C:\Users\ryanj\OneDrive - University of Cape Town\Third Year\First Semester\EEE3088F\HAT\EEE3088F_HAT\Docs\Schematic Schreenshots\3D_Render.png) |
-| ------------------------------------------------------------ |
+| ![PCB 3D Render](Docs\Schematic Schreenshots\3D_Render.png) |
+| ----------------------------------------------------------- |
 
 ## Repository Structure
 ### Each sub-folder contains different aspects relating to different parts of the project
@@ -47,7 +47,7 @@ See a 3D render of the PCB from KiCad below,
 
 - Q1 & IC1 (Circled in **Orange**) are the MOSFET & Op-Amp in the UVLO circuit that needs to be removed by soldering one end of a wire to the top pad (Pad 2) of R12 to the top pad (Pad 2) of R10 (Circled in **Green**)
 
-  | ![UVLO_shorting](C:\Users\ryanj\OneDrive - University of Cape Town\Third Year\First Semester\EEE3088F\HAT\EEE3088F_HAT\Docs\Schematic Schreenshots\UVLO_shorting.png) |
+  | ![UVLO_shorting](Docs\Schematic Schreenshots\UVLO_shorting.png) |
   | :----------------------------------------------------------: |
 
   
