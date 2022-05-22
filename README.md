@@ -60,7 +60,18 @@ See a 3D render of the PCB from KiCad below,
 
 # How to connect the PCB to the STMDiscovery Board
 
+The following locations **on the PCB** need to be soldered to the male end of the jumper:
 
+(*Refer to the KiCad PCB file [here](https://github.com/JNSRYA006/EEE3088F_HAT/blob/main/PCB/main/main.kicad_pcb) for the exact location of these*)
+
+- PA1
+- PA2
+- PA9
+- PA10
+- PB6
+- PB7
+
+The female end of these jumpers are then connected to the corresponding pins on the STMDiscovery board.
 
 # How to connect the PCB & STMDiscovery to your computer using UART
 
