@@ -48,11 +48,15 @@ See a 3D render of the PCB from KiCad below,
 - Q1 & IC1 (Circled in **Orange**) are the MOSFET & Op-Amp in the UVLO circuit that needs to be removed by soldering one end of a wire to the top pad (Pad 2) of R12 to the top pad (Pad 2) of R10 (Circled in **Green**)
 
   | ![UVLO_shorting](C:\Users\ryanj\OneDrive - University of Cape Town\Third Year\First Semester\EEE3088F\HAT\EEE3088F_HAT\Docs\Schematic Schreenshots\UVLO_shorting.png) |
-  | ------------------------------------------------------------ |
+  | :----------------------------------------------------------: |
 
   
 
 # How to connect the power module to the rest of the board
+
+- On the top, RHS of the board, solder a wire between **TP9** *OR* the **+3V** pin pad and the right hand pin of **J7**
+  - This will connect the power from the power module to the rest of the circuit
+- If connected correctly, when a battery is inserted or a USB is connected, a **Red** diode (**D9**) will turn on to indicate the sensing and microcontroller sub-circuits are receiving power.
 
 # How to connect the PCB to the STMDiscovery Board
 
