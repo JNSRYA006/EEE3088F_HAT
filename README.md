@@ -88,8 +88,14 @@ The female end of these jumpers are then connected to the corresponding pins on 
 - Type “Hello HAT” into the console and press ENTER.
 - The device will dump all information collected since the last time the device was connected to a USB host device in the terminal window
 
+# Contributing to this project
+
+You're more than welcome to contribute to this project! Please take a look at our CONTRIBUTING.md file linked here
 
 # License
+
 [Creative Commons Attribution 4.0 International license](https://choosealicense.com/licenses/cc-by-4.0/)
 
 [MIT License](https://choosealicense.com/licenses/mit/)
+
+# 
