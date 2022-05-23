@@ -91,3 +91,5 @@ The female end of these jumpers are then connected to the corresponding pins on 
 
 # License
 [Creative Commons Attribution 4.0 International license](https://choosealicense.com/licenses/cc-by-4.0/)
+
+[MIT License](https://choosealicense.com/licenses/mit/)
