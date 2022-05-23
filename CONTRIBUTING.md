@@ -16,7 +16,7 @@ We use GitHub to host code, schematics and PCB designs, to track issues and feat
 
 You can download [KiCad 6.0 here](https://www.kicad.org/download/), as well as taking a look at a KiCad footprint & schematic symbol library that we've used for this project and is updated on [GitHub here](https://github.com/JNSRYA006/KiCad6-Libraries/tree/45affb6bb0a9958807a18e10e5513b9167775a54). Otherwise, please take a look at the datasheets and make use of [**componentsearchengine**](https://componentsearchengine.com/) to download the appropriate footprints.
 
-​	*It is a private repo, so if you'd like access please email the repo owner using [this email address requesting access](mailto:JNSRYA006@myuct.ac.za).*
+​	*The library repo is a private repo, so if you'd like access please email the repo owner using [this email address requesting access](mailto:JNSRYA006@myuct.ac.za).*
 
 ## All Code & Hardware Changes Happen Through Pull Requests
 Pull requests are the best way to propose changes to the code & hardware. We actively welcome your pull requests:
